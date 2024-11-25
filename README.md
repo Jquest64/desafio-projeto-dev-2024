@@ -1,4 +1,4 @@
-# Desafio de projetoda DIO 2024
+# Desafio de projeto da DIO 2024
 Java RESTful api criada para o desafio de projeto.
 
 ## Diagrama de classes
